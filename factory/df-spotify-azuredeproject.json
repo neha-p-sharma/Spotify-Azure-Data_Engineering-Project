@@ -1,0 +1,9 @@
+{
+	"name": "df-spotify-azuredeproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c0754bfa-9b37-4ff7-89df-08935b8da6d5",
+		"tenantId": "11522b1a-b2d1-49d1-9722-fa09680cd790"
+	}
+}
